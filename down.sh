@@ -21,3 +21,5 @@ ftp://a.gbl.114s.com:20320/6507/扫黑风暴送审版26.mp4
 ftp://a.gbl.114s.com:20320/0721/扫黑风暴送审版27.mp4
 
 
+SingleFlight
+https://lailin.xyz/post/go-training-week5-singleflight.html
